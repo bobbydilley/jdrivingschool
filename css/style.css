@@ -33,6 +33,7 @@ header nav .container {
 
 header nav ul {
     list-style-type: none;
+    padding:0;
 }
 
 header nav ul li {
