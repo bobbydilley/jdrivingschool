@@ -136,6 +136,12 @@ footer ul li a:hover {
 }
 
 @media only screen and (max-width: 800px) {
+    
+    header nav ul li {
+    display:block;
+    padding:1rem 0;
+}
+    
     .flex {
         display: block;
     }
